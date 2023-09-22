@@ -35,5 +35,6 @@ dependencies:
   - shapely
   - pip:
     - awscli==1.27.79
+    - pyyaml==5.3.1
     - fiona
     - url-widget
